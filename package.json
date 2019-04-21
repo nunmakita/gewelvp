@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "vt:dev": "vuepress dev vt",
+    "vt:build": "vuepress build vt"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "markdown-it": "^8.4.2"
+  }
+}
