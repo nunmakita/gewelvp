@@ -1,5 +1,7 @@
 ---
-blog_index: true
+home: true
+heroText: fb
+heroImage: /cover.jpg
 ---
 
 # Blog
